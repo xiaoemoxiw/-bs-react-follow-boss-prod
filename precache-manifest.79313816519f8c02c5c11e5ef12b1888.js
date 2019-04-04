@@ -72,16 +72,16 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "f1b51d437f370a7ea118bf45fea91ac2",
-    "url": "/icons/icon-128x128.png"
+    "revision": "c1d5eb7c2e41762455ef1e6212b82235",
+    "url": "/icons/icon-192x192.png"
   },
   {
     "revision": "38c39d987c4ec756de03",
     "url": "/5.chunk.css"
   },
   {
-    "revision": "c1d5eb7c2e41762455ef1e6212b82235",
-    "url": "/icons/icon-192x192.png"
+    "revision": "f1b51d437f370a7ea118bf45fea91ac2",
+    "url": "/icons/icon-128x128.png"
   },
   {
     "revision": "7243380efe10b7e6e50e2df4b92f94c7",
