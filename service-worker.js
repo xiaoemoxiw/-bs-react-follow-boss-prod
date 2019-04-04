@@ -1,5 +1,5 @@
-importScripts("/precache-manifest.79313816519f8c02c5c11e5ef12b1888.js", "/workbox-v3.6.3/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/workbox-v3.6.3"});
+importScripts("/boss/precache-manifest.bb694f47d3354ddece188488d1a16b0c.js", "/boss/workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/boss/workbox-v3.6.3"});
 /* globals workbox */
 /* eslint-disable no-restricted-globals */
 workbox.core.setCacheNameDetails({
