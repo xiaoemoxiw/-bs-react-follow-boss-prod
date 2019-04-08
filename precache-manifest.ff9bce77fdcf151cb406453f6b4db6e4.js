@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/boss/pwacompat.min.js"
   },
   {
-    "revision": "61fc2c80908ca85894ff",
+    "revision": "cf10d380365e9a3bec3d",
     "url": "/boss/umi.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/boss/static/logo.bae7e77c.png"
   },
   {
-    "revision": "61fc2c80908ca85894ff",
+    "revision": "cf10d380365e9a3bec3d",
     "url": "/boss/umi.css"
   },
   {
