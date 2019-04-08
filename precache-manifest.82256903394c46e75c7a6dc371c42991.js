@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "ba012faf032be353ea9a",
-    "url": "/boss/9.async.js"
+    "revision": "ceeecc137babd66c54e9",
+    "url": "/boss/10.async.js"
   },
   {
-    "revision": "de53c0ff61733a6b26dc",
+    "revision": "540cb835519c75106b41",
     "url": "/boss/vendors.chunk.css"
   },
   {
-    "revision": "2d8366fd5e80dee99b95",
-    "url": "/boss/10.async.js"
+    "revision": "20015e6c66456d7af3cf",
+    "url": "/boss/11.async.js"
   },
   {
     "revision": "b19327e3e83ce06113ae14c0d0497903",
     "url": "/boss/pwacompat.min.js"
   },
   {
-    "revision": "cf10d380365e9a3bec3d",
+    "revision": "1138bd5357742b09e551",
     "url": "/boss/umi.js"
   },
   {
@@ -24,43 +24,47 @@ self.__precacheManifest = [
     "url": "/boss/static/logo.bae7e77c.png"
   },
   {
-    "revision": "cf10d380365e9a3bec3d",
+    "revision": "1138bd5357742b09e551",
     "url": "/boss/umi.css"
   },
   {
-    "revision": "de53c0ff61733a6b26dc",
+    "revision": "540cb835519c75106b41",
     "url": "/boss/vendors.async.js"
   },
   {
-    "revision": "b8024a138922be34d976",
-    "url": "/boss/13.async.js"
+    "revision": "01a705851f6241a62150",
+    "url": "/boss/14.async.js"
   },
   {
-    "revision": "389391decebd24cb975c",
+    "revision": "742f2699f133c9183b30",
     "url": "/boss/4.async.js"
   },
   {
-    "revision": "38c39d987c4ec756de03",
+    "revision": "bd085754bf9eb0016e1d",
     "url": "/boss/5.async.js"
   },
   {
-    "revision": "c7f76258db4db80b8eae",
+    "revision": "adf8fc8af27fd7c185a6",
     "url": "/boss/6.chunk.css"
   },
   {
-    "revision": "c7f76258db4db80b8eae",
+    "revision": "adf8fc8af27fd7c185a6",
     "url": "/boss/6.async.js"
   },
   {
-    "revision": "a6884a06f204c1688e83",
+    "revision": "f4d2d8b3316074f01c9d",
     "url": "/boss/7.async.js"
   },
   {
-    "revision": "791ba65ac76a23f2a0d1",
+    "revision": "7285fcb963f7345ead6d",
     "url": "/boss/8.async.js"
   },
   {
-    "revision": "389391decebd24cb975c",
+    "revision": "2dd221ba25f532add01d",
+    "url": "/boss/9.async.js"
+  },
+  {
+    "revision": "742f2699f133c9183b30",
     "url": "/boss/4.chunk.css"
   },
   {
@@ -76,7 +80,7 @@ self.__precacheManifest = [
     "url": "/boss/icons/icon-192x192.png"
   },
   {
-    "revision": "38c39d987c4ec756de03",
+    "revision": "bd085754bf9eb0016e1d",
     "url": "/boss/5.chunk.css"
   },
   {
@@ -84,43 +88,47 @@ self.__precacheManifest = [
     "url": "/boss/icons/icon-128x128.png"
   },
   {
+    "revision": "194577a7e20bdcc7afbb718f502c134c",
+    "url": "/boss/icons/.DS_Store"
+  },
+  {
     "revision": "3b5d2bf096dd578d2d397ebd85ba3465",
     "url": "/boss/index.html"
   },
   {
-    "revision": "3b0eb1c98d8a60453cd9",
+    "revision": "77b315ac1dbb8a8e9bde",
     "url": "/boss/3.chunk.css"
   },
   {
-    "revision": "3b0eb1c98d8a60453cd9",
+    "revision": "77b315ac1dbb8a8e9bde",
     "url": "/boss/3.async.js"
   },
   {
-    "revision": "0d1a8179159292799caf",
+    "revision": "830acdff01b9e6168655",
     "url": "/boss/16.async.js"
   },
   {
-    "revision": "594544e495ab97dec02a",
+    "revision": "09d6a8f1ac19855ca530",
     "url": "/boss/15.chunk.css"
   },
   {
-    "revision": "594544e495ab97dec02a",
+    "revision": "09d6a8f1ac19855ca530",
     "url": "/boss/15.async.js"
   },
   {
-    "revision": "5c7b32726dda21bd60c9",
-    "url": "/boss/14.async.js"
+    "revision": "62b7bb6b99869e7590b1",
+    "url": "/boss/13.async.js"
   },
   {
-    "revision": "63fe14d18a3b79fd1f38",
+    "revision": "afa858964d94832b0ada",
     "url": "/boss/12.async.js"
   },
   {
-    "revision": "ceb4f786190e8c8295c0",
-    "url": "/boss/11.async.js"
+    "revision": "6574fde1b586804e9a9e",
+    "url": "/boss/1.async.js"
   },
   {
-    "revision": "812bd93cd939a0633e25",
-    "url": "/boss/1.async.js"
+    "revision": "c5d36706cc71fc8e244b8c5b6098ed04",
+    "url": "/boss/.DS_Store"
   }
 ];
