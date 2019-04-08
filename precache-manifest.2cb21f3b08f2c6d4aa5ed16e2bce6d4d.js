@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/boss/manifest.json"
   },
   {
-    "revision": "ee9b14942a20073f042b68c680edd27e",
-    "url": "/boss/favicon.png"
-  },
-  {
     "revision": "c1d5eb7c2e41762455ef1e6212b82235",
     "url": "/boss/icons/icon-192x192.png"
+  },
+  {
+    "revision": "ee9b14942a20073f042b68c680edd27e",
+    "url": "/boss/favicon.png"
   },
   {
     "revision": "bd085754bf9eb0016e1d",
