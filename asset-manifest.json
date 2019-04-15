@@ -30,7 +30,7 @@
   "/icons/icon-192x192.png": "/boss/icons/icon-192x192.png",
   "/index.html": "/boss/index.html",
   "/manifest.json": "/boss/manifest.json",
-  "/precache-manifest.2cb21f3b08f2c6d4aa5ed16e2bce6d4d.js": "/boss/precache-manifest.2cb21f3b08f2c6d4aa5ed16e2bce6d4d.js",
+  "/precache-manifest.448a95bc4b1df8e4ab40ef88b642e4b1.js": "/boss/precache-manifest.448a95bc4b1df8e4ab40ef88b642e4b1.js",
   "/pwacompat.min.js": "/boss/pwacompat.min.js",
   "/service-worker.js": "/boss/service-worker.js",
   "/static/logo.png": "/boss/static/logo.bae7e77c.png"

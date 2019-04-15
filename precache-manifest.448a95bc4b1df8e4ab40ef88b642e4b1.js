@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "ceeecc137babd66c54e9",
+    "revision": "5582ece40d13ba723ae9",
     "url": "/boss/10.async.js"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/boss/vendors.chunk.css"
   },
   {
-    "revision": "20015e6c66456d7af3cf",
+    "revision": "dc4ce5eb7f43ca32c3cb",
     "url": "/boss/11.async.js"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/boss/pwacompat.min.js"
   },
   {
-    "revision": "1138bd5357742b09e551",
+    "revision": "42b5e09262bb6752c4df",
     "url": "/boss/umi.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/boss/static/logo.bae7e77c.png"
   },
   {
-    "revision": "1138bd5357742b09e551",
+    "revision": "42b5e09262bb6752c4df",
     "url": "/boss/umi.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/boss/4.async.js"
   },
   {
-    "revision": "bd085754bf9eb0016e1d",
+    "revision": "d497093f89e73a401eef",
     "url": "/boss/5.async.js"
   },
   {
@@ -52,15 +52,15 @@ self.__precacheManifest = [
     "url": "/boss/6.async.js"
   },
   {
-    "revision": "f4d2d8b3316074f01c9d",
+    "revision": "d12b6604b625d872fa75",
     "url": "/boss/7.async.js"
   },
   {
-    "revision": "7285fcb963f7345ead6d",
+    "revision": "6a5a8c811954acd0be5a",
     "url": "/boss/8.async.js"
   },
   {
-    "revision": "2dd221ba25f532add01d",
+    "revision": "e07935411949dd56ded6",
     "url": "/boss/9.async.js"
   },
   {
@@ -72,15 +72,15 @@ self.__precacheManifest = [
     "url": "/boss/manifest.json"
   },
   {
-    "revision": "c1d5eb7c2e41762455ef1e6212b82235",
-    "url": "/boss/icons/icon-192x192.png"
-  },
-  {
     "revision": "ee9b14942a20073f042b68c680edd27e",
     "url": "/boss/favicon.png"
   },
   {
-    "revision": "bd085754bf9eb0016e1d",
+    "revision": "c1d5eb7c2e41762455ef1e6212b82235",
+    "url": "/boss/icons/icon-192x192.png"
+  },
+  {
+    "revision": "d497093f89e73a401eef",
     "url": "/boss/5.chunk.css"
   },
   {
@@ -96,11 +96,11 @@ self.__precacheManifest = [
     "url": "/boss/index.html"
   },
   {
-    "revision": "77b315ac1dbb8a8e9bde",
+    "revision": "e4485b0a6f84030eef75",
     "url": "/boss/3.chunk.css"
   },
   {
-    "revision": "77b315ac1dbb8a8e9bde",
+    "revision": "e4485b0a6f84030eef75",
     "url": "/boss/3.async.js"
   },
   {
@@ -116,11 +116,11 @@ self.__precacheManifest = [
     "url": "/boss/15.async.js"
   },
   {
-    "revision": "62b7bb6b99869e7590b1",
+    "revision": "d963f1a13732ddb3d41e",
     "url": "/boss/13.async.js"
   },
   {
-    "revision": "afa858964d94832b0ada",
+    "revision": "a723943d95effd159134",
     "url": "/boss/12.async.js"
   },
   {
