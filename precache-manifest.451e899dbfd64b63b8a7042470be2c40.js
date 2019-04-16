@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/boss/vendors.chunk.css"
   },
   {
-    "revision": "dc4ce5eb7f43ca32c3cb",
+    "revision": "48411bcb23d3600be2b4",
     "url": "/boss/11.async.js"
   },
   {
