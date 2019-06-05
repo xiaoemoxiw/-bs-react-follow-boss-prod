@@ -31,7 +31,7 @@
   "/icons/icon-192x192.png": "/boss/icons/icon-192x192.png",
   "/index.html": "/boss/index.html",
   "/manifest.json": "/boss/manifest.json",
-  "/precache-manifest.66662740fa5430aa5211eb7b91db3230.js": "/boss/precache-manifest.66662740fa5430aa5211eb7b91db3230.js",
+  "/precache-manifest.57efa61744d8258b2e6269cb9c7051e3.js": "/boss/precache-manifest.57efa61744d8258b2e6269cb9c7051e3.js",
   "/pwacompat.min.js": "/boss/pwacompat.min.js",
   "/service-worker.js": "/boss/service-worker.js",
   "/static/logo.png": "/boss/static/logo.bae7e77c.png"
